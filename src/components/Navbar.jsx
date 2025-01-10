@@ -3,7 +3,7 @@ import {Link} from "react-router-dom"
 
 import {styles} from "../styles"
 import {navLinks} from '../constants'
-import {logo, menu , close,} from '../assets'
+import { menu, close, maletech } from "../assets";
 
 const Navbar = () => {
 
@@ -24,7 +24,7 @@ const Navbar = () => {
             window.scrollTo(0, 0);
           }}
         >
-          <img src={logo} alt="logo" className="w-9 h-9 object-contain" />
+          <img src={maletech} alt="logo" className="w-9 h-9 object-contain" />
           <p className="text-white text-[18px] font-bold cursor-pointer flex">
             Prarthan &nbsp;
             <span className="sm:block hidden"> | Christian </span>
@@ -67,21 +67,17 @@ const Navbar = () => {
                     active === nav.title ? "text-white" : "text-secondary"
                   }font-poppins font-medium cursor-pointer text-[16px]`}
                   onClick={() => {
-                    setToggle(!toggle)
-                    setActive(nav.title)
+                    setToggle(!toggle);
+                    setActive(nav.title);
                   }}
                 >
                   <a href={`#${nav.id}`}>{nav.title}</a>
                 </li>
               ))}
             </ul>
-
           </div>
-
         </div>
-
       </div>
-      
     </nav>
   );
 }
