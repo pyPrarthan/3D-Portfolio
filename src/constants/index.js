@@ -173,9 +173,9 @@ const testimonials = [
 
 const projects = [
   {
-    name: "Car Rent",
+    name: "Next Gen Shop",
     description:
-      "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+      "Built a dynamic e-commerce platform using React, Node.js, and MongoDB with responsive design, real-time updates, seamless navigation, and a streamlined checkout for enhanced user experience.",
     tags: [
       {
         name: "react",
@@ -191,15 +191,15 @@ const projects = [
       },
     ],
     image: carrent,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://github.com/pyPrarthan/Next-Gen-Shop",
   },
   {
-    name: "Job IT",
+    name: "Personal Finance Tracker",
     description:
-      "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
+      "Developed a finance tracking app using Matplotlib and Pandas for interactive data visualization. Integrated a Chatbot (FinBot) for personalized financial insights and recommendations.",
     tags: [
       {
-        name: "react",
+        name: "python",
         color: "blue-text-gradient",
       },
       {
@@ -212,19 +212,19 @@ const projects = [
       },
     ],
     image: jobit,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://github.com/pyPrarthan/Personal-Finance-Tracker",
   },
   {
-    name: "Trip Guide",
+    name: "3-D Portfolio",
     description:
-      "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+      "Created an immersive 3D portfolio using Three.js and React, featuring dynamic animations,  and smooth navigation. Hosted on Netlify, it offers a visually engaging and unique way to showcase skills and projects.",
     tags: [
       {
-        name: "nextjs",
+        name: "react",
         color: "blue-text-gradient",
       },
       {
-        name: "supabase",
+        name: "3js",
         color: "green-text-gradient",
       },
       {
