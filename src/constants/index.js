@@ -23,6 +23,8 @@ import {
   jobit,
   tripguide,
   threejs,
+  koralbyte, 
+  fire
 } from "../assets";
 
 export const navLinks = [
@@ -118,7 +120,7 @@ const experiences = [
   {
     title: "Full Stack Developer",
     company_name: "Koralbyte",
-    icon: starbucks,
+    icon: koralbyte,
     iconBg: "#383E56",
     date: "Jan 2025 - Present",
     points: [
@@ -131,7 +133,7 @@ const experiences = [
   {
     title: "Web Developer",
     company_name: "Flare Web Designs",
-    icon: shopify,
+    icon: fire,
     iconBg: "#383E56",
     date: "April 2024 - Dec 2024",
     points: [
@@ -141,31 +143,30 @@ const experiences = [
       "Ensured client satisfaction by managing all aspects of website development, from concept to deployment.",
     ],
   },
-
 ];
 
 const testimonials = [
   {
     testimonial:
-      "I thought it was impossible to make a website as beautiful as our product, but Rick proved me wrong.",
-    name: "Sara Lee",
-    designation: "CFO",
-    company: "Acme Co",
+      "I thought it was impossible to make a website as beautiful as our product, but Prarthan proved me wrong.",
+    name: "Elle Yazwin Yip",
+    designation: "Socaial Media Manager",
+    company: "The Lavin Agency",
     image: "https://randomuser.me/api/portraits/women/4.jpg",
   },
   {
     testimonial:
-      "I've never met a web developer who truly cares about their clients' success like Rick does.",
-    name: "Chris Brown",
-    designation: "COO",
-    company: "DEF Corp",
+      "I've never met a web developer who truly cares about their clients' success like Prarthan does.",
+    name: "Chris Christian",
+    designation: "Owner",
+    company: "Notion Hill",
     image: "https://randomuser.me/api/portraits/men/5.jpg",
   },
   {
     testimonial:
-      "After Rick optimized our website, our traffic increased by 50%. We can't thank them enough!",
-    name: "Lisa Wang",
-    designation: "CTO",
+      "After Prarthan optimized our website, our traffic increased by 50%. We can't thank them enough!",
+    name: "Anna",
+    designation: "Small Business Owner",
     company: "456 Enterprises",
     image: "https://randomuser.me/api/portraits/women/6.jpg",
   },

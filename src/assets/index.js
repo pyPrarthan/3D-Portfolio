@@ -26,6 +26,9 @@ import meta from "./company/meta.png";
 import shopify from "./company/shopify.png";
 import starbucks from "./company/starbucks.png";
 import tesla from "./company/tesla.png";
+import koralbyte from './company/koralbyte.png';
+import fire from './company/fire.png'
+
 
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
@@ -34,6 +37,8 @@ import tripguide from "./tripguide.png";
 import maletech from "./maletech.png"
 
 export {
+  fire,
+  koralbyte,
   maletech,
   logo,
   backend,
