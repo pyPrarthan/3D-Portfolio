@@ -32,11 +32,8 @@ import fire from './company/fire.png'
 
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
-import tripguide from "./tripguide.png";
 
 import maletech from "./maletech.png"
-
-import shopping from './shopping.jpg'
 
 import portfolio from './portfolio.jpg'
 import online from './onlineStore.jpg'
@@ -73,8 +70,6 @@ export {
   tesla,
   carrent,
   jobit,
-  tripguide,
-  shopping,
   finance,
   portfolio,
   online  

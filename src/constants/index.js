@@ -21,7 +21,6 @@ import {
   shopify,
   carrent,
   jobit,
-  tripguide,
   threejs,
   koralbyte, 
   fire,
