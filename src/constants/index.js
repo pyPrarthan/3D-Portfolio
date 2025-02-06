@@ -24,7 +24,10 @@ import {
   tripguide,
   threejs,
   koralbyte, 
-  fire
+  fire,
+  portfolio,
+  online,
+  finance
 } from "../assets";
 
 export const navLinks = [
@@ -191,7 +194,7 @@ const projects = [
         color: "pink-text-gradient",
       },
     ],
-    image: carrent,
+    image: online,
     source_code_link: "https://github.com/pyPrarthan/Next-Gen-Shop",
   },
   {
@@ -212,7 +215,7 @@ const projects = [
         color: "pink-text-gradient",
       },
     ],
-    image: jobit,
+    image: finance,
     source_code_link: "https://github.com/pyPrarthan/Personal-Finance-Tracker",
   },
   {
@@ -233,8 +236,8 @@ const projects = [
         color: "pink-text-gradient",
       },
     ],
-    image: tripguide,
-    source_code_link: "https://github.com/",
+    image: portfolio,
+    source_code_link: "https://github.com/pyPrarthan/3D-Portfolio",
   },
 ];
 

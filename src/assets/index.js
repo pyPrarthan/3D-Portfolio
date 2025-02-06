@@ -36,6 +36,12 @@ import tripguide from "./tripguide.png";
 
 import maletech from "./maletech.png"
 
+import shopping from './shopping.jpg'
+
+import portfolio from './portfolio.jpg'
+import online from './onlineStore.jpg'
+import finance from './finance.jpg'
+
 export {
   fire,
   koralbyte,
@@ -68,4 +74,8 @@ export {
   carrent,
   jobit,
   tripguide,
+  shopping,
+  finance,
+  portfolio,
+  online  
 };
