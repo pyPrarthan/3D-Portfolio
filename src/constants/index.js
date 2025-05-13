@@ -124,7 +124,7 @@ const experiences = [
     company_name: "Koralbyte",
     icon: koralbyte,
     iconBg: "#383E56",
-    date: "Jan 2025 - Present",
+    date: "Jan 2025 - May 2025",
     points: [
       "Redesigned the Cocoa App's architecture and user interface to scale seamlessly for 1,000+ users.",
       "Implemented a real-time chat feature using WebSocket technology, ensuring reliability during peak usage.",
@@ -133,16 +133,16 @@ const experiences = [
     ],
   },
   {
-    title: "Web Developer",
+    title: "Technical Support Representative",
     company_name: "Flare Web Designs",
     icon: fire,
     iconBg: "#383E56",
-    date: "April 2024 - Dec 2024",
+    date: "Jan 2024 - Dec 2024",
     points: [
-      "Delivered fully customized website solutions, including flarewebdesigns.com, ensuring smooth end-to-end project execution.",
-      "Integrated interactive animations and 3D elements to enhance user experience and visual appeal.",
-      "Developed modern, client-centric websites focused on unique UI/UX designs that increased engagement.",
-      "Ensured client satisfaction by managing all aspects of website development, from concept to deployment.",
+      "Delivered Tier 1 and Tier 2 support for websites on Squarespace and Shopify, resolving frontend bugs, plugin conflicts, and browser-specific issues.",
+      "Reduced client-reported issues by 30% through pre-launch QA checks and proactive remote diagnostics.",
+      "Provided clear and empathetic client communication via email and virtual calls, maintaining a 95% satisfaction rate across 100+ support tickets.",
+      "Guided customers through domain setup, CMS configurations, and third-party tool integrations, ensuring smooth onboarding.",
     ],
   },
 ];
